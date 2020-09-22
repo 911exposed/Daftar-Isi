@@ -1,5 +1,5 @@
 {
-  "name": "911Exposed",
+  "name": "911Exposed.org",
   "short_name": "911Exposed",
   "start_url": "https://www.911exposed.org/",
   "display": "standalone",
@@ -7,37 +7,37 @@
   "theme_color": "#7975ff",
   "description": "Informasi Tutorial Android and more",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-IQVEP6wEPjA/X1e3x-jJRoI/AAAAAAAABzo/zdVjaXsQgswWFE1mrHPqW-VeF5AtB7J5gCLcBGAsYHQ/s0/android-icon-36x36.png",
+    "src": "https://1.bp.blogspot.com/-5UOu7YMCLNM/X2ontDgn3-I/AAAAAAAAB94/ETlamO_3aScA4F7fuOr1TN8KQbfqjW37wCLcBGAsYHQ/s36/android-icon-36x36.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
   }, {
-    "src": "https://1.bp.blogspot.com/-KR1gaZCUfvc/X1e38UcgauI/AAAAAAAABzs/TtIwZPDBjEcACtCr2tkQ0IgIP-quykAvwCLcBGAsYHQ/s0/android-icon-48x48.png",
+    "src": "https://1.bp.blogspot.com/-cunU2v4QJPY/X2on4SgZ12I/AAAAAAAAB98/p1zw8GDTf642QvOPuguMhsCxtggD2PdvgCLcBGAsYHQ/s48/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png",
     "density": "1.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-NBbqUE7Nmpw/X1e4IBkamOI/AAAAAAAABz0/UYfX0a-0914G0yBR5sstuG8q7pqCAYfrgCLcBGAsYHQ/s0/android-icon-72x72.png",
+    "src": "https://1.bp.blogspot.com/-GOjxcpqhdK0/X2ooCouU1jI/AAAAAAAAB-A/5UJs-rUEBUAtQKgFkduRWJ2sBJRSwcbpQCLcBGAsYHQ/s72/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "density": "1.5"
   }, {
-    "src": "https://1.bp.blogspot.com/-_rgPQ2fm__M/X1e4QmB3BTI/AAAAAAAABz8/BRndxtLBq9QGV2b4g7bsQC0jEjJBiVklwCLcBGAsYHQ/s0/android-icon-96x96.png",
+    "src": "https://1.bp.blogspot.com/-ONmLiH1t27c/X2ooMz4MEPI/AAAAAAAAB-I/L2W3jypx6GMzmyomeVbnrrrzC_MVkfJCwCLcBGAsYHQ/s96/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png",
     "density": "2.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-bTV3v_x4bRs/X1e5IZ2lFEI/AAAAAAAAB0g/H9qP9K7qrSw4NaH47zkc9a0Vbb62tZw_ACLcBGAsYHQ/s0/android-icon-144x144.png",
+    "src": "https://1.bp.blogspot.com/-O6yb-KQDn-4/X2ooY-MPdaI/AAAAAAAAB-Q/Sfqgmyshirgy5Ni4L0doGtdTOVP3CRMxQCLcBGAsYHQ/s144/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "density": "3.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-Iy60AagybPQ/X1e4mkp9_QI/AAAAAAAAB0M/wQUHluH9G8kw7O0MLHZn8hbobRiyd8PHwCLcBGAsYHQ/s0/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-uweaM8y2_tw/X2oohyTmfmI/AAAAAAAAB-U/-Z9LNoTlgzE35StcbMf1hjLN2gLERJzzQCLcBGAsYHQ/s192/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-9dpsfln_ISQ/X1e47lK9aMI/AAAAAAAAB0Y/XRTWSSUqJu0wGRmkcTHEduvXWAdRO8ldACLcBGAsYHQ/s0/pulukdroidicon.png",
+    "src": "https://1.bp.blogspot.com/-htaQ737iWDE/X2ooq6lMu6I/AAAAAAAAB-c/gtXzT2vlYcsMryN8f_h6tS-O6X-gMTXkgCLcBGAsYHQ/s512/911exposed-favicon.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
